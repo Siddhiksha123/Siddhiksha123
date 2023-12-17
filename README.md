@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swati Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 
 - 🔭 I’m currently working on *enhancing my DSA skills*
 - 🌱 I’m currently learning *JavaScript and ReactJS*
