@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swati Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/-ixObzfAhk8AyeBWOFfV6StHlQemZ4LrsHbdnEvkQCw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA0LzU3LzI5LzQx/LzM2MF9GXzQ1NzI5/NDE2M19PN0tEWWY2/Skp5UFV5c01ub3p4/N0tDWkc4UjQwY1A2/QS5qcGc">
 
 
 - 🔭 I’m currently working on *enhancing my DSA skills*
