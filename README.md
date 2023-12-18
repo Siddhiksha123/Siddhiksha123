@@ -14,8 +14,9 @@
   <a href="https://www.leetcode.com/siddhiksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddhiksha" height="30" width="40" /></a>
 </p>
 <a href="https://www.linkedin.com/in/swati-yadav-8170ab220/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Swati Yadav's LinkedIn" height="30" width="40" />
+  <img align="center" src="https://imgs.search.brave.com/g1j7JJFsN4pAWHiuEJlgKmT7W-bXqDCAKBLbMpn5DnU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9MaW5rZWRJ/bi9MaW5rZWRJbi1J/Y29uLUxvZ28ud2lu/ZS5zdmc.svg" alt="Swati Yadav's LinkedIn" height="30" width="40" />
 </a>
+
 
 
 # 💻 Tech Stack
